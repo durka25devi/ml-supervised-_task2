@@ -29,7 +29,6 @@ The data underwent comprehensive preprocessing:
 | **Class Imbalance** | **Non-Diabetic (Outcome = 0)** | 500 instances ($\approx 65\%$) |
 | **Class Imbalance** | **Diabetic (Outcome = 1)** | 268 instances ($\approx 35\%$) |
 
----
 
 ## 4. Model Performance Summary (After Tuning)
 
